@@ -1,0 +1,2 @@
+dope
+-DCATKIN_DEVEL_PREFIX=/home/john/CV_ws/Deep_Object_Pose/ros1/devel -DCMAKE_INSTALL_PREFIX=/home/john/CV_ws/Deep_Object_Pose/ros1/install -G Unix Makefiles
